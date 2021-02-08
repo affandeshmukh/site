@@ -61,7 +61,7 @@ function closeNav() {
 <meta charset="utf-8">
 <title>Change the Background Color Dynamically with JavaScript</title>
 
-   <img src="tem/images/color.png">
+   <img src="/tem/images/color.png">
 
 <a href="sign in and sign up.php" class="button button2">preview</a>
 

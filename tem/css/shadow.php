@@ -58,7 +58,7 @@ function closeNav() {
 <a href="/tem/zip/shadow.zip" class="button button5">click me for download code</a>
 
 
-<a href="Flexbox.php" class="button button2">next &rarr;</a>
+<a href="flexbox.php" class="button button2">next &rarr;</a>
 
 
 </div>

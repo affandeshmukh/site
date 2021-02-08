@@ -38,13 +38,6 @@
   </div>
 </div>
 
-
-  
-
-
-      
-
-<p style="color:white; ">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
 <div class="container">
     <div class="row">
         <div class="card mx-auto my-2 p-2 align-items-center" style="width: 18rem; padding:100%;">

@@ -30,11 +30,11 @@
   <a href="#default" class="logo">CompanyLogo</a>
   <div class="header-right">
   <a class="active" href="/site/inde.php">Home</a>
-    <a href="/site/tem/html.php">Html Example</a>
-    <a href="tem/css.php">Css Example</a>
-    <a href="tem/js.php">Javascript Example</a>
-    <a href="tem/php.php">Php Example</a>
-    <a href="tem/">About</a>
+    <a href="/tem/html.php">Html Example</a>
+    <a href="/tem/css.php">Css Example</a>
+    <a href="/tem/js.php">Javascript Example</a>
+    <a href="/tem/php.php">Php Example</a>
+    <a href="#">About</a>
   </div>
 </div>
 
